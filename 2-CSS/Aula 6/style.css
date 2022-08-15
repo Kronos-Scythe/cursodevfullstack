@@ -1,0 +1,36 @@
+body {
+    /*background-image: url(background.jpg);*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: 100% 10%; */
+    /*background-position: right center; */
+    /*background-size: cover; */
+    /* background-attachment: fixed;*/
+    background-color: gainsboro ;
+}
+
+
+h3 {
+    color: green;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid white; /*shorthand*/
+    border-radius: 60%;
+    /* border-width:5px
+    border-style:solid
+    border-color black*/
+    
+    margin: 30px 30px 30px 30px;
+    
+    /* margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 500px; */
+
+    padding: 2px;
+
+}
+
+#titulo-principal{
+    color: brown;
+}

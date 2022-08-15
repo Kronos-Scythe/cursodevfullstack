@@ -1,0 +1,77 @@
+body {
+    /*background-image: url(background.jpg);*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: 100% 10%; */
+    /*background-position: right center; */
+    /*background-size: cover; */
+    /* background-attachment: fixed;*/
+    background-color: gainsboro ;
+    color: rgb(34,34,34);
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.profile {
+ text-align: center;
+ margin-bottom: 50px;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid white; /*shorthand*/
+    border-radius: 40%;
+    /* border-width:5px
+    border-style:solid
+    border-color black*/
+    
+    margin: 30px 30px 0px 30px; /* LEMBRAR DA REGRA DO RELÓGIO CIMA-DIREITA-BAIXO-ESQUERDA
+    
+    /* margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 500px; */
+
+    padding: 1px;
+
+    box-shadow: 0px 0px 10px rgb(126, 126, 126);
+
+}
+
+#titulo-principal{
+    color: rgb(0, 0, 0);
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1{
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+h2{ 
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(72, 67, 67);
+    letter-spacing: -1px;
+    font-weight: 100px;
+}
+
+.socials {
+    width: 30px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.linkedin {
+    margin: 0px 15px 0px 15px;
+}
+.footer{
+    margin-top: 20%;
+    color: white;
+    background-color: black;
+    padding: 10px 0px;
+    text-align: center;
+}

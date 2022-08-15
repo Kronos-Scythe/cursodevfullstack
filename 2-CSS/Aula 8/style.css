@@ -1,0 +1,48 @@
+body {
+    /*background-image: url(background.jpg);*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: 100% 10%; */
+    /*background-position: right center; */
+    /*background-size: cover; */
+    /* background-attachment: fixed;*/
+    background-color: gainsboro ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34,34,34);
+}
+
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid white; /*shorthand*/
+    border-radius: 40%;
+    /* border-width:5px
+    border-style:solid
+    border-color black*/
+    
+    margin: 30px 30px 30px 30px;
+    
+    /* margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 500px; */
+
+    padding: 1px;
+
+    box-shadow: 0px 0px 10px rgb(126, 126, 126);
+
+}
+
+#titulo-principal{
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h2{ 
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(72, 67, 67);
+    letter-spacing: -1px;
+    font-weight: 100px;
+}
